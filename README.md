@@ -1,6 +1,4 @@
-# Project Title
-
-Admin law application for international organizations
+# Admin law application for international organizations
 
 Building AI course project
 
