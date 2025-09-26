@@ -1,11 +1,11 @@
 # Admin law application for international organizations
 
-Building AI course project
-
 ## Summary
 
 Application to reliably search and extract information on case law of Administrative Tribunals of International Organizations and to help draft case related research and submission documents for use in administrative tribunal proceedings. 
 International organizations usually have their own internal administrative law procedures with an administrative tribunal being the highest instance, e.g. ILOAT, UNAT, ADBAT, WBAT, IMFAT, etc. 
+
+Building AI course project
 
 ## How is it used?
 
